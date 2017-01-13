@@ -37,7 +37,7 @@ Project Description:
 
 Brief Content Description:  
 
-	To run spherical k-means  
+	*To run spherical k-means  *
 	
 		Folder initialization:  
 			init.py  
@@ -63,7 +63,7 @@ Brief Content Description:
 			(for better output graph, adjust the plotting functions)  
 
 
-	To run standard k-means (not recommanded)  
+	*To run standard k-means (not recommanded)  *
 	
 		Folder initialization:  
 			init.py  
