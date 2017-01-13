@@ -1,34 +1,33 @@
 # ClusteringAnalysisFall2016
 Clustering analysis on TripAdvisor hotel reviews
 
-
 All credits reserved to Xiaonan Jing, Pai-ying Hsiao and Chien-yi Hsiang
 Please contect Xiaonan Jing for any problems
 
 
 Work Distribution:
-	Jing:
-		init.py
-		main.py
-		preprocess.py
-		select_features.py
-		spherical_kmeans.py
-		spherical_kmeans_test.py
-		text_extraction.py
-		vectorize.py
-		skmeans_visualize.py --PlotCenters, WriteToFile
-		refine_features_instruction.JPG
-		README.md
-	Hsiao:
-		kmeans_find_k.py
-		kmeans.py
-		skmeans_find_k.py
-		skmeans_visualize.py --Mds, PlotSKmeans, PlotWithCluster, WriteToFile
-	Hsiang:
-		LDA
+	Jing:  
+		init.py  
+		main.py  
+		preprocess.py  
+		select_features.py  
+		spherical_kmeans.py  
+		spherical_kmeans_test.py  
+		text_extraction.py  
+		vectorize.py  
+		skmeans_visualize.py --PlotCenters, WriteToFile  
+		refine_features_instruction.JPG  
+		README.md  
+	Hsiao:  
+		kmeans_find_k.py  
+		kmeans.py  
+		skmeans_find_k.py  
+		skmeans_visualize.py --Mds, PlotSKmeans, PlotWithCluster, WriteToFile  
+	Hsiang:  
+		LDA  
 
-	data cleaning and selecting: Hsiao
-	organization of scripts and contents: Jing
+	data cleaning and selecting: Hsiao  
+	organization of scripts and contents: Jing  
 
 
 Project Description:
