@@ -4,7 +4,8 @@ Clustering analysis on TripAdvisor hotel reviews
 All credits reserved to Xiaonan Jing, Pai-ying Hsiao and Chien-yi Hsiang
 Please contect Xiaonan Jing for any problems  
 
-Work Distribution:  
+Work Distribution: 
+
 	Jing:  
 		init.py  
 		main.py  
@@ -35,8 +36,8 @@ Project Description:
 
 
 Brief Content Description:  
-
 	To run spherical k-means  
+	
 		Folder initialization:  
 			init.py  
 			main.py  
@@ -61,6 +62,7 @@ Brief Content Description:
 			(for better output graph, adjust the plotting functions)  
 
 	To run standard k-means (not recommanded)  
+	
 		Folder initialization:  
 			init.py  
 			main.py  
