@@ -1,7 +1,8 @@
 # ClusteringAnalysisFall2016
 Clustering analysis on TripAdvisor hotel reviews  
 
-For Data file, go to "https://drive.google.com/open?id=0B2B_Q-zgRyWrR0ZOSmd4bE5jSnM"  
+**For Data file, go to "https://drive.google.com/open?id=0B2B_Q-zgRyWrR0ZOSmd4bE5jSnM"**  
+**For presentation slides, go to "https://drive.google.com/open?id=1An5J4SgWgs9dbodjrUdXgEM5CxUgzEDIPBOi-fD2vXY"**  
 
 All credits reserved to Xiaonan Jing, Pai-ying Hsiao and Chien-yi Hsiang  
 Please contect Xiaonan Jing for any problems  
