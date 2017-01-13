@@ -35,6 +35,7 @@ Project Description:
 
 
 Brief Content Description:  
+
 	To run spherical k-means  
 		Folder initialization:  
 			init.py  
