@@ -61,6 +61,7 @@ Brief Content Description:
 			5. check results  
 			(for better output graph, adjust the plotting functions)  
 
+
 	To run standard k-means (not recommanded)  
 	
 		Folder initialization:  
