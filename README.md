@@ -1,11 +1,10 @@
 # ClusteringAnalysisFall2016
 Clustering analysis on TripAdvisor hotel reviews  
 
-All credits reserved to Xiaonan Jing, Pai-ying Hsiao and Chien-yi Hsiang
+All credits reserved to Xiaonan Jing, Pai-ying Hsiao and Chien-yi Hsiang  
 Please contect Xiaonan Jing for any problems  
 
 **Work Distribution:** 
-
 	Jing:  
 		init.py  
 		main.py  
