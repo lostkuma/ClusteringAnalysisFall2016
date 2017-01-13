@@ -31,13 +31,13 @@ Work Distribution:
 
 
 Project Description:  
-1. the project mainly concentrated on spherical k-means clustering on text data  
-2. the project also tried standard k-means approach and some other approaches  
+	1. the project mainly concentrated on spherical k-means clustering on text data  
+	2. the project also tried standard k-means approach and some other approaches  
 
 
 Brief Content Description:  
 
-	**To run spherical k-means  **
+	**To run spherical k-means**  
 	
 		Folder initialization:  
 			init.py  
@@ -63,7 +63,7 @@ Brief Content Description:
 			(for better output graph, adjust the plotting functions)  
 
 
-	#To run standard k-means (not recommanded)  
+	**To run standard k-means (not recommanded)**  
 	
 		Folder initialization:  
 			init.py  
